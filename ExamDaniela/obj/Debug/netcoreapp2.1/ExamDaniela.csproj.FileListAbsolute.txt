@@ -1,0 +1,11 @@
+C:\test\ExamDaniela\ExamDaniela\bin\Debug\netcoreapp2.1\ExamDaniela.deps.json
+C:\test\ExamDaniela\ExamDaniela\bin\Debug\netcoreapp2.1\ExamDaniela.runtimeconfig.json
+C:\test\ExamDaniela\ExamDaniela\bin\Debug\netcoreapp2.1\ExamDaniela.runtimeconfig.dev.json
+C:\test\ExamDaniela\ExamDaniela\bin\Debug\netcoreapp2.1\ExamDaniela.dll
+C:\test\ExamDaniela\ExamDaniela\bin\Debug\netcoreapp2.1\ExamDaniela.pdb
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.csprojAssemblyReference.cache
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.csproj.CoreCompileInputs.cache
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.AssemblyInfoInputs.cache
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.AssemblyInfo.cs
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.dll
+C:\test\ExamDaniela\ExamDaniela\obj\Debug\netcoreapp2.1\ExamDaniela.pdb
